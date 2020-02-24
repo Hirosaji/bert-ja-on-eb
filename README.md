@@ -1,5 +1,5 @@
 # bert-on-eb
-BERT on Elastic Beanstalk example
+BERT on Elastic Beanstalk example (for Japanese)
 
 original version: https://github.com/google-research/bert
 
